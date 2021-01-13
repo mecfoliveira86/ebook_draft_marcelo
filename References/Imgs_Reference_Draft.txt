@@ -1,0 +1,4 @@
+foto cadeira: <span>Photo by <a href="https://unsplash.com/@nkachanovskyyy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nikita Kachanovsky</a> on <a href="https://unsplash.com/s/photos/innovation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+foto conforto: <span>Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/business-man?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
