@@ -2,3 +2,7 @@ foto cadeira: <span>Photo by <a href="https://unsplash.com/@nkachanovskyyy?utm_s
 
 foto conforto: <span>Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/business-man?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+foto mapa: <span>Photo by <a href="https://unsplash.com/@timowielink?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Timo Wielink</a> on <a href="https://unsplash.com/s/photos/alternative-map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+mulher com mapa: <span>Photo by <a href="https://unsplash.com/@timowielink?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Timo Wielink</a> on <a href="https://unsplash.com/s/photos/alternative-map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
